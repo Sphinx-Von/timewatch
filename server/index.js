@@ -8,8 +8,7 @@ dotenv.config();
 const app = express();
 
 app.use(cors({
-  origin: process.env.FRONTEND_URL, // Vite frontend
-  credentials: true
+  origin: '*'
 }));
 app.use(express.json());
 
