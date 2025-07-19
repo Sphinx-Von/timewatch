@@ -3,7 +3,8 @@
 This is a full stack web application developed as part of the technical assignment for the Full Stack Web Developer Internship at **Elite8 Digital**. The application allows students to securely manage their fee payment status through a login-based interface.
 
 ---
-
+*ScreenShots*
+![Image](https://github.com/user-attachments/assets/97de764a-3d8f-4c04-a5b9-d8a39df4742f)
 ## 🚀 Features
 
 ### 🔗 Navigation Bar
